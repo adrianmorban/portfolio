@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.63a70e9d.chunk.css",
+    "main.js": "/portfolio/static/js/main.e01a87e6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e01a87e6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.82b7467a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.82b7467a.js.map",
+    "static/js/2.1db3015d.chunk.js": "/portfolio/static/js/2.1db3015d.chunk.js",
+    "static/js/2.1db3015d.chunk.js.map": "/portfolio/static/js/2.1db3015d.chunk.js.map",
+    "static/js/3.98ce7105.chunk.js": "/portfolio/static/js/3.98ce7105.chunk.js",
+    "static/js/3.98ce7105.chunk.js.map": "/portfolio/static/js/3.98ce7105.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.63a70e9d.chunk.css.map": "/portfolio/static/css/main.63a70e9d.chunk.css.map",
+    "static/js/2.1db3015d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1db3015d.chunk.js.LICENSE.txt",
+    "static/media/inventario.9e80f8fc.png": "/portfolio/static/media/inventario.9e80f8fc.png",
+    "static/media/klinorix.87485d06.png": "/portfolio/static/media/klinorix.87485d06.png",
+    "static/media/programming-animate.203bd549.svg": "/portfolio/static/media/programming-animate.203bd549.svg",
+    "static/media/todolist.b8a870ce.png": "/portfolio/static/media/todolist.b8a870ce.png",
+    "static/media/webserver.e6b46ed5.png": "/portfolio/static/media/webserver.e6b46ed5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b7467a.js",
+    "static/js/2.1db3015d.chunk.js",
+    "static/css/main.63a70e9d.chunk.css",
+    "static/js/main.e01a87e6.chunk.js"
+  ]
+}
